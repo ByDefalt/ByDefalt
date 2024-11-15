@@ -1,4 +1,4 @@
-## compétences techniques
+## Compétences techniques :
 
 
 ```javascript
